@@ -1,6 +1,6 @@
 # Vending-Machine
 
-This project is an assignment from <a href="https://recursionist.io/">Recusion</a>(learning platform for computer science).
+This Web application is an assignment from <a href="https://recursionist.io/">Recursion</a>(learning platform for computer science).
 
 ### Usage
 Once you enter the number between 1 and 22 corresponding to the desired product, the product photo along with the name and price will be selected.
